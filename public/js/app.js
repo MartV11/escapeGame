@@ -796,35 +796,35 @@ __webpack_require__.r(__webpack_exports__);
       if (this.text === "théo.tse1" && this.password === "ClidQc36g") {
         console.log("ok");
         this.$router.push({
-          path: '/laraescape/public/1'
+          path: '/escapeGame/public/1'
         });
       }
 
       if (this.text === "théo.tse2" && this.password === "wbfliWPy9") {
         console.log("ok");
         this.$router.push({
-          path: '/laraescape/public/2'
+          path: '/escapeGame/public/2'
         });
       }
 
       if (this.text === "théo.tse3" && this.password === "me4LA1Pgd") {
         console.log("ok");
         this.$router.push({
-          path: '/laraescape/public/3'
+          path: '/escapeGame/public/3'
         });
       }
 
       if (this.text === "théo.tse4" && this.password === "GmsCs2d1B") {
         console.log("ok");
         this.$router.push({
-          path: '/laraescape/public/4'
+          path: '/escapeGame/public/4'
         });
       }
 
       if (this.text === "théo.tse5" && this.password === "5EoR6elpqu") {
         console.log("ok");
         this.$router.push({
-          path: '/laraescape/public/5'
+          path: '/escapeGame/public/5'
         });
       }
     }
@@ -28290,27 +28290,27 @@ vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vue_router__WEBPACK_IMPORTED_MODU
 var router = new vue_router__WEBPACK_IMPORTED_MODULE_1__["default"]({
   mode: 'history',
   routes: [{
-    path: '/laraescape/public/',
+    path: '/escapeGame/public/',
     name: 'home',
     component: _components_test_vue__WEBPACK_IMPORTED_MODULE_3__["default"]
   }, {
-    path: '/laraescape/public/1',
+    path: '/escapeGame/public/1',
     name: 'un',
     component: _components_pageun_vue__WEBPACK_IMPORTED_MODULE_4__["default"]
   }, {
-    path: '/laraescape/public/2',
+    path: '/escapeGame/public/2',
     name: 'deux',
     component: _components_pagedeux_vue__WEBPACK_IMPORTED_MODULE_5__["default"]
   }, {
-    path: '/laraescape/public/3',
+    path: '/escapeGame/public/3',
     name: 'trois',
     component: _components_pagetrois_vue__WEBPACK_IMPORTED_MODULE_6__["default"]
   }, {
-    path: '/laraescape/public/4',
+    path: '/escapeGame/public/4',
     name: 'quatre',
     component: _components_pagequatre_vue__WEBPACK_IMPORTED_MODULE_7__["default"]
   }, {
-    path: '/laraescape/public/5',
+    path: '/escapeGame/public/5',
     name: 'cinq',
     component: _components_pagecinq_vue__WEBPACK_IMPORTED_MODULE_8__["default"]
   }]
@@ -28791,8 +28791,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /var/www/html/laraescape/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /var/www/html/laraescape/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /var/www/html/escapeGame/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /var/www/html/escapeGame/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

@@ -16,32 +16,32 @@ const router= new VueRouter({
   mode: 'history',
   routes: [
     {
-      path:'/laraescape/public/',
+      path:'/escapeGame/public/',
       name: 'home',
       component: test
     },
     {
-      path:'/laraescape/public/1',
+      path:'/escapeGame/public/1',
       name: 'un',
       component: pageun
     },
     {
-      path:'/laraescape/public/2',
+      path:'/escapeGame/public/2',
       name: 'deux',
       component: pagedeux
     },
     {
-      path:'/laraescape/public/3',
+      path:'/escapeGame/public/3',
       name: 'trois',
       component: pagetrois
     },
     {
-      path:'/laraescape/public/4',
+      path:'/escapeGame/public/4',
       name: 'quatre',
       component: pagequatre
     },
     {
-      path:'/laraescape/public/5',
+      path:'/escapeGame/public/5',
       name: 'cinq',
       component: pagecinq
     },

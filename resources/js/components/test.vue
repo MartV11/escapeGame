@@ -64,27 +64,27 @@ export default {
     verif: function(){
       if (this.text==="théo.tse1"&&this.password==="ClidQc36g"){
         console.log("ok");
-        this.$router.push({ path: '/laraescape/public/1' });
+        this.$router.push({ path: '/escapeGame/public/1' });
       }
 
       if (this.text==="théo.tse2"&&this.password==="wbfliWPy9"){
         console.log("ok");
-        this.$router.push({ path: '/laraescape/public/2' });
+        this.$router.push({ path: '/escapeGame/public/2' });
       }
 
       if (this.text==="théo.tse3"&&this.password==="me4LA1Pgd"){
         console.log("ok");
-        this.$router.push({ path: '/laraescape/public/3' });
+        this.$router.push({ path: '/escapeGame/public/3' });
       }
 
       if (this.text==="théo.tse4"&&this.password==="GmsCs2d1B"){
         console.log("ok");
-        this.$router.push({ path: '/laraescape/public/4' });
+        this.$router.push({ path: '/escapeGame/public/4' });
       }
 
       if (this.text==="théo.tse5"&&this.password==="5EoR6elpqu"){
         console.log("ok");
-        this.$router.push({ path: '/laraescape/public/5' });
+        this.$router.push({ path: '/escapeGame/public/5' });
       }
     }
   }
